@@ -1,0 +1,2 @@
+BeeHSpeed;BeeVSpeed;CapSpeed;Delay;Stun;BulletCapacity;BulletSpeed;EnemyBulletCapacity;OneHp;OneSpeed;OneTime;CircleHp;CircleSpeed;CircleTime;TripleHp;TripleSpeed;TripleTime;TripleTime2;BarrerHp;BarrerSpeed;BarrerTime;EnemyCapacity;OneScore;TripleScore;CircleScore;BarrerScore
+20;50;15;0.15;0.25;30;20;250;4;10;1;15;30;5;11;9;2.2;0.3;15;12;5;20;7;12;18;15

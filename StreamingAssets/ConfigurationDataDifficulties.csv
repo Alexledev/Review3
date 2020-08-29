@@ -1,0 +1,5 @@
+MaxHealth;Score 2;Score 3;Score 4;Suicide enemy;Factor speed;Suicice bullet;EnemySpawnTime
+20;100;200;300;0.2;0.6;0.3;13
+15;400;8000;125000;0.1;0.75;0.15;10
+10;500;10000;150000;0;1;0;7
+;300;6000;100000;;;;
